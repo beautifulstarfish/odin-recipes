@@ -12,3 +12,7 @@ Some of the skills I have demonstrated included:
  - Creating absolute links to images.
  - Creating relative links to other pages.
  - Creating unordered and ordered lists.
+ - Applying CSS to main webpage.
+ - Applying classes to main webpage.
+ - Creating text styles in CSS.
+ - Using the box model to layout elements.
