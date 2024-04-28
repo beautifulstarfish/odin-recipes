@@ -25,3 +25,24 @@
     line-height: 30px;
     margin-left: 20%;
 }
+
+.column-A,
+.column-B {
+    display: inline-block;
+    vertical-align: top;
+    padding: 6px;
+}
+
+.column-A {
+    width: 365px;
+}
+
+.column-B {
+    width: 55%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
